@@ -22,9 +22,6 @@ We do this by helping you place the content preview inside our high-conversion f
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-
-<!-- ![alt text](../images/player_views.png?raw=true) -->
-
 <p class="" style="text-align:center;">
 <img src="../images/player_views.png" style="max-width: 500px;"/>
 </p>

@@ -22,13 +22,6 @@ We do this by helping you place the content preview inside our high-conversion f
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-<p data-sourcepos="28:1-28:48" dir="auto" style="text-align: center;">
-   <img src="/Envoy-Technology/.github/raw/main/images/player_views.png?raw=true" alt="alt text" style="max-width: 100%;width: 500px;margin: 0 auto;">
-</p>
-
-<img src="/Envoy-Technology/.github/raw/main/images/player_views.png?raw=true" alt="alt text" style="max-width: 100%;">
-
-
 
 
 

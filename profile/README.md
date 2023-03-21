@@ -9,6 +9,10 @@ We help content apps use previews of premium content to get qualified leads.
 We do this by helping you place the content preview inside our high-conversion flow we host on web on your behalf:
 
 
+![alt text](../images/player_views.png?raw=true)
+
+
+
 1. One-to-one gifting. An integration is required. Integration required 
 2. Marketing links: no need to integrate anything. 
 3. Rewards: usually used with our gifting feature. Boost sharing by 
@@ -22,7 +26,10 @@ We do this by helping you place the content preview inside our high-conversion f
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) -->
 
-<p class="" style="text-align:center;">
+
+
+
+<p class="" style="text-align:center; ">
 <img src="../images/player_views.png" style="max-width: 500px;"/>
 </p>
 

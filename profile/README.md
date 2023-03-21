@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Welcome to our README file.
 
+What is Envoy ? 
+
+We help content apps leverage their content to get qualified leads. 
+
+We use a proven and high converting flow to do this: 
+1 - One-to-one gifting. An integration is required. Integration required
+2 - Marketing links: no need to integrate anything. 
+3 - Rewards: usually used with our gifting feature. Boost sharing by 
+4 - Analytics: 
 
 **Here are some ideas to get you started:**
 

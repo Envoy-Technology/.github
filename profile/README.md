@@ -8,7 +8,7 @@
 We help you (content apps) use your content to attract qualified leads. We do this by you placing the content preview inside a high-converting web flow we host on your behalf. 
 
 <figure class="">
-    <img src="../images/player_views.png" style="width: 400px;"/>
+    <img src="../images/player_views_1.png" style=""/>
 </figure>
 
 

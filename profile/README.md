@@ -1,6 +1,6 @@
 ## 🌟 1 - What is Envoy ? 
 
-#### 🌊 The Envoy flow
+### 🌊 The Envoy flow
 We help you (content apps) use your content to attract qualified leads. We do this by placing content previews inside a high-converting web flow we host on your behalf. 
 
 <figure class="">
@@ -17,14 +17,14 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 | Rewards   | Boost sharing by creating incentives for your users   |    It depends on implementation (ie rewarding signups means integrating our pixel)   | <img src="../images/feature_rewards.png" style="width: 400px;"/>       |
 | Analytics   | Generate links in a no-code way                     |    No integration needed | <img src="../images/feature_analytics_1.png" style="width: 400px;"/>       |
 
-#### 🎥 🎧 Supported formats 
+### 🎥 🎧 Supported formats 
 | Video | Audio | Live audio and video | Articles |
 | --- | --- | --- | --- |
 | <img src="../images/format_video_1.png" style="width: 400px;"/> | <img src="../images/format_audio.png" style="width: 400px;"/> | <img src="../images/format_live.png" style="width: 400px;"/> | <img src="../images/format_article.png" style="width: 400px;"/> |
 
 ## 🛠️ 2 - How do I integrate Gifting into my app?
 
-#### Step 1/2: The API call
+### Step 1/2: The API call
 After you've set up your space in the Envoy dash, here's the API call you'll need to make to get a link (example in Python). Read our [Tech docs](https://openapi.envoy.is/) for the full code snippets.
 
 ``` 
@@ -47,7 +47,7 @@ payload = {
 
 The respond payload will contain a `url` and a `userRemainingQuota`. Link format is:  `[your_app_name].envoy.gift/12345`. 
 
-#### Step 2/2: displaying that link to the user
+### Step 2/2: displaying that link to the user
 All that's now left is to build the UI needed to show the Envoy link to the user. In an app, the simples version possible is a share link that returns the native sharing modal:
 
 <img src="../images/share_modal_1.png" style="width: 300px;"/>  

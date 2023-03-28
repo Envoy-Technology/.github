@@ -20,7 +20,10 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 ### 🎥 🎧 Supported formats 
 | Video | Audio | Live audio and video | Articles |
 | --- | --- | --- | --- |
-| <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_video_1.png?raw=true" style="width: 400px;"/> | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_audio.png?raw=true" style="width: 400px;"/> | <img src=".https://github.com/Envoy-Technology/.github/blob/main/images/format_live.png?raw=true" style="width: 400px;"/> | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_article.png?raw=true" style="width: 400px;"/> |
+| <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_video_1.png?raw=true" style="width: 400px;"/> | 
+<img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_audio.png?raw=true" style="width: 400px;"/> | 
+<img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_live.png?raw=true" style="width: 400px;"/> | 
+<img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_article.png?raw=true" style="width: 400px;"/> |
 
 ## 🛠️ 2 - How do I integrate Gifting into my app?
 

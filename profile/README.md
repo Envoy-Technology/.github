@@ -57,7 +57,7 @@ All that's now left is to build the UI needed to show the Envoy link to the user
 
 Unless you're using our hosting feature inside of Marketing Links, we don't host your content but stream directly from your CDN's servers.
 - We are pretty flexible when it comes to authentication, and support several strategies: access token-based auth, header-based auth.
-- We also have a system of signed URLs for your CDN can check and be 100% certain requests comes from Envoy.
+- We also have a system of signed URLs for your CDN to check and be 100% certain requests comes from Envoy.
 - Finally, we're compatible with the DRM protection you have in place, you can give us 1 DRM certificate by DRM system (FairPlay, PlayReady, Widevine) for each video.
 
 ---

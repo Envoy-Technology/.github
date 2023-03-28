@@ -44,7 +44,7 @@ payload = {
         "common": {
             "media": {
                 "poster": "https://your-poster-uri.com",
-                "source": 'https://file_link.mp3'
+                "source": "https://file_link.mp3"
             }
         },
     }

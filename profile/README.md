@@ -12,10 +12,10 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 
 | Feature     | Short description |      Integration needed?        | Illustrated example |
 | ----------- | ----------------- | ------------------------------- | ------------------  |
-| Gifting      |   Enable your users to share with their friends.   |   Yes, an API call to get gift link + a gift button on the front-end    | <img src="../images/feature_gifting.png" style="width: 300px;"/>       |
-| Marketing links   | Generate links to be shared on social media or email campaigns   |    No, gets done from dash in a no-code way    | <img src="../images/feature_marketing.png" style="width: 300px;"/>       |
-| Rewards   | Boost sharing by creating incentives for your users   |    It depends on implementation (ie rewarding signups means integrating our pixel)   | <img src="../images/feature_rewardss.png" style="width: 300px;"/>       |
-| Analytics   | Generate links in a no-code way                     |    No | <img src="../images/feature_analytics.png" style="width: 300px;"/>       |
+| Gifting      |   Enable your users to share with their friends.   |   Yes, an API call to get gift link + a gift button on the front-end    | <img src="../images/feature_gifting.png" style="width: 400px;"/>       |
+| Marketing links   | Generate links to be shared on social media or email campaigns   |    No, gets done from dash in a no-code way    | <img src="../images/feature_marketing.png" style="width: 400px;"/>       |
+| Rewards   | Boost sharing by creating incentives for your users   |    It depends on implementation (ie rewarding signups means integrating our pixel)   | <img src="../images/feature_rewards.png" style="width: 400px;"/>       |
+| Analytics   | Generate links in a no-code way                     |    No | <img src="../images/feature_analytics.png" style="width: 400px;"/>       |
 
 #### 🎥 🎧 Supported formats 
 | Format     | Image |      

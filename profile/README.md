@@ -20,7 +20,7 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 ### 🎥 🎧 Supported formats 
 | Video | Audio | Live audio and video | Articles |
 | --- | --- | --- | --- |
-| <img src="../images/format_video_1.png" style="width: 400px;"/> | <img src="../images/format_audio.png" style="width: 400px;"/> | <img src="../images/format_live.png" style="width: 400px;"/> | <img src="../images/format_article.png" style="width: 400px;"/> |
+| <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_video_1.png?raw=true" style="width: 400px;"/> | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_audio.png?raw=true" style="width: 400px;"/> | <img src=".https://github.com/Envoy-Technology/.github/blob/main/images/format_live.png?raw=true" style="width: 400px;"/> | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_article.png?raw=true" style="width: 400px;"/> |
 
 ## 🛠️ 2 - How do I integrate Gifting into my app?
 
@@ -50,7 +50,7 @@ The respond payload will contain a `url` and a `userRemainingQuota`. Link format
 ### 👀 Step 2/2: Displaying that link to the user
 All that's now left is to build the UI needed to show the Envoy link to the user. In an app, the simples version possible is a share link that returns the native sharing modal:
 
-<img src="../images/share_modal_1.png" style="width: 300px;"/>  
+<img src="https://github.com/Envoy-Technology/.github/blob/main/images/share_modal_1.png?raw=true" style="width: 300px;"/>  
 
 ## 🔒 3 - How do you access my content in a secure way?
 

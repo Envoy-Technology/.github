@@ -26,21 +26,16 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 | Articles   | Boost sharing by creating incentives for your users   |   
 
 ## 🛠️ 2 - How do I integrate Gifting into my app?
-After you've set up your space in the Envoy dash, here's the API call you'll need to make to get a link (example in Python). 
+After you've set up your space in the Envoy dash, here's the API call you'll need to make to get a link (example in Python). Read our [Tech docs](https://openapi.envoy.is/) for the full code snippets.
 
 ``` 
-import requests
-
-api_key = "-----"
-API_endpoint = "https://api.envoy.is/partner/create-link"
-
 payload = {
     'userId': '100',
     'contentConfig': {
         'contentType': 'VIDEO',
-        'contentId': 'your-content-id',
-        'contentName': 'Your content name',
-        'contentDescription': 'Your content name description',
+        'contentId': '12345',
+        'contentName': 'Video title',
+        'contentDescription': 'A short description of the video',
         "common": {
             "media": {
                 "poster": "https://your-poster-uri.com",
@@ -49,15 +44,9 @@ payload = {
         },
     }
 }
-
-response = requests.post(
-    API_endpoint,
-    headers = headers,
-    json=payload,
-)
 ```
 
-The respond payload will contain a `url` and a `userRemainingQuota`. Link format is:  `[your_app_name].envoy.gift/12345`. Read our [Tech docs](https://openapi.envoy.is/) for more.
+The respond payload will contain a `url` and a `userRemainingQuota`. Link format is:  `[your_app_name].envoy.gift/12345`. 
 
 ## 🔒 3 - How do you access my content in a secure way?
 

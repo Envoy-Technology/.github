@@ -1,13 +1,13 @@
 ## 🌟 1 - What is Envoy ? 
 
-#### 1.1. The Envoy flow
+#### 🌊 The Envoy flow
 We help you (content apps) use your content to attract qualified leads. We do this by placing content previews inside a high-converting web flow we host on your behalf. 
 
 <figure class="">
     <img src="https://github.com/Envoy-Technology/.github/blob/main/images/player_views_1.png?raw=true" style=""/>
 </figure>
 
-#### 1.2. Features
+#### 📣 Features
 There are two key ways for you to use the Envoy flow, through **gifting** and **marketing** links:
 
 | Feature     | Short description |      Integration needed?        | Illustrated example |
@@ -17,7 +17,7 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 | Rewards   | Boost sharing by creating incentives for your users   |    It depends on implementation (ie rewarding signups means integrating our pixel)   | <img src="../images/player_views.png" style="width: 300px;"/>       |
 | Analytics   | Generate links in a no-code way                     |    No | <img src="../images/player_views.png" style="width: 300px;"/>       |
 
-#### 1.3. Supported formats 
+#### 🎥 🎧 Supported formats 
 | Format     | Image |      
 | ----------- | ----------------- |
 | Video      |   Enable your users to share with their friends.   

@@ -23,6 +23,8 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 | <img src="../images/format_video_1.png" style="width: 400px;"/> | <img src="../images/format_audio.png" style="width: 400px;"/> | <img src="../images/format_live.png" style="width: 400px;"/> | <img src="../images/format_article.png" style="width: 400px;"/> |
 
 ## 🛠️ 2 - How do I integrate Gifting into my app?
+
+#### Step 1/2: The API call
 After you've set up your space in the Envoy dash, here's the API call you'll need to make to get a link (example in Python). Read our [Tech docs](https://openapi.envoy.is/) for the full code snippets.
 
 ``` 
@@ -44,6 +46,12 @@ payload = {
 ```
 
 The respond payload will contain a `url` and a `userRemainingQuota`. Link format is:  `[your_app_name].envoy.gift/12345`. 
+
+#### Step 2/2: displaying that link to the user
+All that's now left is to build the UI needed to show the Envoy link to the user. In an app, the simples version possible is a share link that returns the native sharing modal:
+
+<img src="../images/share_modal_1.png" style="width: 300px;"/>  
+
 
 ## 🔒 3 - How do you access my content in a secure way?
 

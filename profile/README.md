@@ -7,7 +7,7 @@ We help you (content apps) use your content to attract qualified leads. We do th
     <img src="https://github.com/Envoy-Technology/.github/blob/main/images/player_views_1.png?raw=true" style=""/>
 </figure>
 
-#### 📣 Features
+### 📣 Features
 There are two key ways for you to use the Envoy flow, through **gifting** and **marketing** links:
 
 | Feature     | Short description |      Integration needed?        | Illustrated example |
@@ -51,7 +51,6 @@ The respond payload will contain a `url` and a `userRemainingQuota`. Link format
 All that's now left is to build the UI needed to show the Envoy link to the user. In an app, the simples version possible is a share link that returns the native sharing modal:
 
 <img src="../images/share_modal_1.png" style="width: 300px;"/>  
-
 
 ## 🔒 3 - How do you access my content in a secure way?
 

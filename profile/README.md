@@ -64,18 +64,11 @@ The respond payload will contain a `url` and a `userRemainingQuota`. Link format
 
 ## 🔒 3 - How do you access my content in a secure way?
 
-#### 1 - How we display content  
-We stream directly from your CDN's servers and never host anything ourselves. We serve the content in our own player inside an webpage hosted by us, built on Shaka Player. Shaka Player has great performance, can handle large video streams (it's used by many streaming platforms).
+Unless you're using our hosting feature inside of Marketing Links, we don't host your content but stream directly from your CDN's servers.
+- We are pretty flexible when it comes to authentication, and support several strategies: access token-based auth, header-based auth.
+- We also have a system of signed URLs for your CDN can check and be 100% certain requests comes from Envoy.
+- Finally, we're compatible with the DRM protection you have in place, you can give us 1 DRM certificate by DRM system (FairPlay, PlayReady, Widevine) for each video.
 
-#### 2 - How we access your content in a secure way  
--   We are pretty flexible when it comes to accessing Your content in safe way: we support several strategies: access token-based auth, header-based auth.
--   We also have a system of signed urls that, for your CDN can check and be 100% certain requests comes from Envoy.
+---
 
-#### 3 - How we keep it secure while streaming it  
-We're compatible with the DRM protection you have in place, you can give us 1 DRM certificate by DRM system (FairPlay, PlayReady, Widevine) for each video.
-
-
-
-
-
- 
+*👋 Say hi at info@envoy.is.*

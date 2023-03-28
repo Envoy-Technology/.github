@@ -22,7 +22,7 @@ There are two key ways for you to use the Envoy flow, through **gifting** and **
 | --- | --- | --- | --- |
 | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_video_1.png?raw=true" style="width: 400px;"/> | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_audio.png?raw=true" style="width: 400px;"/> | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_live.png?raw=true" style="width: 400px;"/> | <img src="https://github.com/Envoy-Technology/.github/blob/main/images/format_article.png?raw=true" style="width: 400px;"/> |
 
-## 🛠️ 2 - How do I integrate Gifting into my app?
+## 🛠️ 2 - How do I integrate gifting into my app?
 
 ### 🔄 Step 1/2: The API call
 After you've set up your space in the Envoy dash, here's the API call you'll need to make to get a link (example in Python). Read our [Tech docs](https://openapi.envoy.is/) for the full code snippets.
